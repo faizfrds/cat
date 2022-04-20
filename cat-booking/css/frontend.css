@@ -1,0 +1,224 @@
+
+/* CSS for All */
+*{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    margin: 0 auto;
+    padding: 1%;
+}
+
+.wrapper-book{
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+.img-responsive{
+    width: 100%;
+}
+.img-curve{
+    border-radius: 15px;
+}
+
+.text-right{
+    text-align: right;
+}
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+.text-white{
+    color: white;
+}
+
+
+
+.clearfix{
+    clear: both;
+    float: none;
+}
+
+a{
+    color: #70a1ff;
+    text-decoration: none;
+}
+a:hover{
+    color: #2b6fec;
+}
+
+.btn{
+    padding: 1%;
+    border: none;
+    font-size: 2rem;
+    border-radius: 5px;
+}
+.btn-primary{
+    background-color: #ff7979;
+    color: white;
+    cursor: pointer;
+}
+.btn-primary:hover{
+    color: white;
+    background-color: #eb4d4b;
+}
+h2{
+    color: #2f3542;
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+h3{
+    font-size: 1.5rem;
+}
+.float-container{
+    position: relative;
+}
+.float-text{
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+}
+fieldset{
+    border: 1px solid white;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 5px;
+}
+.success{
+    color:#6ab04c;
+    font-weight: bold;
+}
+
+.error{
+    color:#eb4d4b;
+    font-weight: bold;
+}
+
+
+/* CSSS for navbar section */
+
+.logo{
+    width: 10%;
+    float: left;
+}
+.menu{
+    color: #ff7979;
+    line-height: 60px;
+}
+.menu ul{
+    list-style-type: none;
+}
+
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-weight: bold;
+}
+
+
+/* CSS for Food SEarch Section */
+
+.book-button{
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 1% 0;
+}
+
+
+
+/* CSS for Categories */
+.rooms{
+    padding: 2% 0;
+    background-color: #c7ecee;
+}
+
+.box-3{
+    width: 28%;
+    float: left;
+    margin: 2%;
+}
+
+
+.service-menu-box{
+    width: 20%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+.boxinggg{
+
+    width: 20%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+    background-color: rgb(94, 0, 0);
+    border-radius: 15px;
+
+}
+
+.service-menu-img{
+    width: 10%;
+    float: left;
+}
+
+.service-menu-desc{
+    width: 35%;
+    float: right;
+    margin-left: 10%;
+}
+
+.service-price{
+    font-size: 1.8rem;
+    margin: 2% 0;
+}
+
+
+/* CSS for Social */
+.social ul{
+    list-style-type: none;
+}
+.social ul li{
+    display: inline;
+    padding: 1%;
+}
+
+/* for Order Section */
+.order{
+    width: 50%;
+    margin: 0 auto;
+}
+.input-responsive{
+    width: 96%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.order-label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+.booking-page{
+    background-color: #f7b8b8;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 1% 0;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
