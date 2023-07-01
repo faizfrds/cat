@@ -1,4 +1,4 @@
-Download this repository and open cover-page.html in your browser in order to view the process of the development.
+Download this repository and open cover_page.html in your browser in order to view the process of the development.
 
 Web application for my school computer science project. It is about a cat hotel business. It uses MySQL to store data. If you want to open this web app, save this repo inside 'htdocs' of your XAMPP application and access it by typing 'localhost/cat-booking' in your browser. 
 
